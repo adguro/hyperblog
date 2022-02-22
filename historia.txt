@@ -10,4 +10,4 @@ hint: 'development'. The just-created branch can be renamed via this command:
 hint: 
 hint: 	git branch -m <name>
 
-Agregamos texto
+Agregamos texto y un texto más
